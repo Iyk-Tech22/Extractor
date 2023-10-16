@@ -51,4 +51,4 @@ def save_to_file(file, data):
 if __name__ == "__main__":
     if STATUS == 200:
         data = extractor(HTML)
-        save_to_file(data)
+        save_to_file(FILE, data)

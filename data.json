@@ -1,0 +1,469 @@
+[
+    {
+        "titles": "Wizard with a Gun",
+        "prices": "$24.99",
+        "tags": [
+            "Action",
+            " Adventure",
+            " Action-Adventure",
+            " Sandbox"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Outpath",
+        "prices": "$13.49",
+        "tags": [
+            "Simulation",
+            " Base Building",
+            " Strategy",
+            " Crafting"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Dungeon's Legion",
+        "prices": "$15.99",
+        "tags": [
+            "RPG",
+            " Adventure",
+            " Casual",
+            " JRPG"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Submachine: Legacy",
+        "prices": "$22.49",
+        "tags": [
+            "Adventure",
+            " Puzzle",
+            " Hand-drawn",
+            " Point & Click"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Lords of the Fallen",
+        "prices": "$59.99",
+        "tags": [
+            "Souls-like",
+            " RPG",
+            " Dark Fantasy",
+            " Action"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "RAILGRADE",
+        "prices": "$22.49",
+        "tags": [
+            "Trains",
+            " Automation",
+            " Resource Management",
+            " Strategy"
+        ],
+        "total_platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "titles": "Tribe: Primitive Builder",
+        "prices": "$17.99",
+        "tags": [
+            "Management",
+            " Relaxing",
+            " Family Friendly",
+            " Inventory Management"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "DRAGON BALL XENOVERSE 2",
+        "prices": "$19.99",
+        "tags": [
+            "Anime",
+            " Fighting",
+            " Character Customization",
+            " Action"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Space Wreck",
+        "prices": "$14.44",
+        "tags": [
+            "RPG",
+            " Post-apocalyptic",
+            " Story Rich",
+            " CRPG"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Expansion - Hearts of Iron IV: Arms Against Tyranny",
+        "prices": "$19.99",
+        "tags": [
+            "Strategy",
+            " Simulation",
+            " Psychological Horror",
+            " World War II"
+        ],
+        "total_platforms": [
+            "win",
+            "mac",
+            "linux"
+        ]
+    },
+    {
+        "titles": "Thief Simulator 2",
+        "prices": "$19.99",
+        "tags": [
+            "Simulation",
+            " Stealth",
+            " Crime",
+            " Singleplayer"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Dotage",
+        "prices": "$17.59",
+        "tags": [
+            "City Builder",
+            " Resource Management",
+            " Turn-Based",
+            " Roguelike"
+        ],
+        "total_platforms": [
+            "win",
+            "mac",
+            "linux"
+        ]
+    },
+    {
+        "titles": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2",
+        "prices": "$19.99",
+        "tags": [
+            "Sports",
+            " Skateboarding",
+            " Singleplayer",
+            " Multiplayer"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Disgaea 7: Vows of the Virtueless",
+        "prices": "$29.99",
+        "tags": [
+            "Action",
+            " RPG",
+            " Adventure",
+            " Strategy"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "New World: Rise of the Angry Earth",
+        "prices": "$69.99",
+        "tags": [
+            "Adventure",
+            " Action",
+            " Massively Multiplayer",
+            " RPG"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "EA SPORTS FC\u2122 24",
+        "prices": "$59.99",
+        "tags": [
+            "Sports",
+            " Football (Soccer)",
+            " PvP",
+            " Controller"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Fate/Samurai Remnant",
+        "prices": "Free",
+        "tags": [
+            "JRPG",
+            " RPG",
+            " Action RPG",
+            " Action"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Moonring",
+        "prices": "$24.99",
+        "tags": [
+            "RPG",
+            " Medieval",
+            " Retro",
+            " Dark Fantasy"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Wildmender",
+        "prices": "$29.99",
+        "tags": [
+            "3D",
+            " Third Person",
+            " Multiplayer",
+            " Simulation"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Call of Duty\u00ae: Modern Warfare\u00ae II - BlackCell (Season 06)",
+        "prices": "$29.99",
+        "tags": [
+            "Action",
+            " Gore",
+            " Violent",
+            " Capitalism"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Paleo Pines",
+        "prices": "$29.99",
+        "tags": [
+            "Farming Sim",
+            " Dinosaurs",
+            " Exploration",
+            " Indie"
+        ],
+        "total_platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "titles": "Cyberpunk 2077: Phantom Liberty",
+        "prices": "$14.99",
+        "tags": [
+            "RPG",
+            " Cyberpunk",
+            " Story Rich",
+            " Sexual Content"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Demonologist",
+        "prices": "Free To Play",
+        "tags": [
+            "Horror",
+            " Multiplayer",
+            " Online Co-Op",
+            " Psychological Horror"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Farlight 84",
+        "prices": "$19.99",
+        "tags": [
+            "Free to Play",
+            " Battle Royale",
+            " Hero Shooter",
+            " Multiplayer"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Moonstone Island",
+        "prices": "$19.99",
+        "tags": [
+            "Creature Collector",
+            " Sandbox",
+            " Cute",
+            " Building"
+        ],
+        "total_platforms": [
+            "win",
+            "mac",
+            "linux"
+        ]
+    },
+    {
+        "titles": "Party Animals",
+        "prices": "$59.99",
+        "tags": [
+            "Casual",
+            " Funny",
+            " Multiplayer",
+            " Cute"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Lies of P",
+        "prices": "Free To Play",
+        "tags": [
+            "Souls-like",
+            " Action",
+            " Exploration",
+            " Action RPG"
+        ],
+        "total_platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "titles": "Strongblade - Puzzle Quest and Match-3 Adventure",
+        "prices": "Free To Play",
+        "tags": [
+            "Puzzle",
+            " Casual",
+            " Match 3",
+            " Free to Play"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Pyroworks",
+        "prices": "$69.99",
+        "tags": [
+            "Choose Your Own Adventure",
+            " Sandbox",
+            " Simulation",
+            " Tutorial"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Starfield",
+        "prices": "$19.99",
+        "tags": [
+            "Space",
+            " Singleplayer",
+            " RPG",
+            " Open World"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Chants of Sennaar",
+        "prices": "Free To Play",
+        "tags": [
+            "Adventure",
+            " Singleplayer",
+            " Colorful",
+            " Puzzle"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Wolvesville",
+        "prices": "Free To Play",
+        "tags": [
+            "Werewolves",
+            " PvP",
+            " Strategy",
+            " Party-Based RPG"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Sim Companies",
+        "prices": "$34.99",
+        "tags": [
+            "Simulation",
+            " Strategy",
+            " Trading",
+            " Resource Management"
+        ],
+        "total_platforms": [
+            "win",
+            "mac",
+            "linux"
+        ]
+    },
+    {
+        "titles": "Sea of Stars",
+        "prices": "Free to Play",
+        "tags": [
+            "RPG",
+            " Pixel Graphics",
+            " Turn-Based Combat",
+            " Adventure"
+        ],
+        "total_platforms": [
+            "win"
+        ]
+    },
+    {
+        "titles": "Town of Salem 2",
+        "prices": "$59.99",
+        "tags": [
+            "Free to Play",
+            " Social Deduction",
+            " Strategy",
+            " Indie"
+        ],
+        "total_platforms": [
+            "win",
+            "mac"
+        ]
+    }
+]
