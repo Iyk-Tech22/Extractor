@@ -1,12 +1,14 @@
 import requests
 import lxml.html
+import json
+
 
 # GLOBAL VARS
 DOMAIN = "https://store.steampowered.com/explore/new/"
 HTML = requests.get(DOMAIN)
 STATUS = HTML.status_code
 
-def extrator(html):
+def extractor(html):
     """ Scrape the HTML content of the target domain """
 
     doc = lxml.html.fromstring(html.content)
@@ -38,8 +40,11 @@ def extrator(html):
         reprs["total_platforms"] = data[3]
         output.append(reprs)
         
-    print(list(zip(titles, prices, tags, total_platforms)))
+    return output
+
+def save_to_file(file, data):
+    """ Save data to a file """
 
 if __name__ == "__main__":
     if STATUS == 200:
-        extrator(HTML)
+        data = extractor(HTML)
