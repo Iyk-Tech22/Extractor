@@ -7,6 +7,7 @@ import json
 DOMAIN = "https://store.steampowered.com/explore/new/"
 HTML = requests.get(DOMAIN)
 STATUS = HTML.status_code
+FILE = "data.json"
 
 def extractor(html):
     """ Scrape the HTML content of the target domain """
@@ -43,8 +44,11 @@ def extractor(html):
     return output
 
 def save_to_file(file, data):
-    """ Save data to a file """
+    """ Save the data as json"""
+    with open(file, "w") as f:
+        json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
     if STATUS == 200:
         data = extractor(HTML)
+        save_to_file(data)
